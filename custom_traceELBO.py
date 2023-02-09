@@ -1,3 +1,6 @@
+#Supplement of paper titled: 
+#Combining Variational Autoencoders and Physical Bias for Improved Microscopy Data Analysis- prepared by Arpan Biswas
+
 ######### We extend the standard trace ELBO class to incorporate the inclusion of the physics driven loss functions 
 ###########and augmenting the physics driven loss with VAE loss during training process
 
