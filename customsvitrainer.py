@@ -1,3 +1,7 @@
+#Supplement of paper titled: 
+#Combining Variational Autoencoders and Physical Bias for Improved Microscopy Data Analysis- prepared by Arpan Biswas
+
+
 ######### This standard svi trainner class is extended to incorporate physics defined loss functions along with VAE loss
 import matplotlib.pyplot as plt
 import math
