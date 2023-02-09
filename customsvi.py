@@ -1,3 +1,7 @@
+#Supplement of paper titled: 
+#Combining Variational Autoencoders and Physical Bias for Improved Microscopy Data Analysis- prepared by Arpan Biswas
+
+
 ######### This class is modified to pass additional arguments in "model", "data", "weight" as stated in comments under (new modification)
 ## SVI class is extended to incorporate custom physics driven loss with existing VAE loss during training process 
 
