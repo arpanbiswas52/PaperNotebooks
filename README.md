@@ -89,3 +89,6 @@ Notebook/Code link:
 
 https://github.com/arpanbiswas52/PaperNotebooks/blob/main/films_PZO_GPexplore.ipynb
 
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+<i> Please feel free to use these notebooks. Please cite the relevant papers and email at **arpanbiswas52@gmail.com** or **biswasa@ornl.gov** for any questions </i>
