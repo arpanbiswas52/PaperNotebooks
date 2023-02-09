@@ -65,7 +65,7 @@ Arpan Biswas, Anna N. Morozovska, Maxim Ziatdinov, Eugene A. Eliseev, and Sergei
 
 Notebook/Code link: 
 
-https://github.com/arpanbiswas52/MOBO_PhysicsBasedModels
+https://github.com/arpanbiswas52/MOBO_AFI_Supplements
 
 **Example (PZO): Exploration over parameter space containing FE and AFE hysteresis loops:**
 
